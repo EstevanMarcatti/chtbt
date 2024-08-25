@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.25.0",
+    "wwebjs-mongo": "^1.1.0"
+  },
+  "name": "chatbot",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node --watch ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
